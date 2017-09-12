@@ -1,9 +1,14 @@
 {
   "name": "dobbie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fast, plain distributed objects",
   "main": "index.js",
-  "keywords": ["fast", "plain", "distributed", "objects"],
+  "keywords": [
+    "fast",
+    "plain",
+    "distributed",
+    "objects"
+  ],
   "author": "pemrouz (https://github.com/pemrouz)",
   "license": "pemrouz.mit-license.org",
   "dependencies": {
