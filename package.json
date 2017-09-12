@@ -1,6 +1,6 @@
 {
   "name": "dobbie",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "fast, plain distributed objects",
   "main": "index.js",
   "keywords": [
