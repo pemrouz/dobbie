@@ -14,7 +14,7 @@ dob.foo = 'bar'
 
 In the other terminal;
 
-```
+```js
 dob
 // { foo: 'bar' } 
 ```
