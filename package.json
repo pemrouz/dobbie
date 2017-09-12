@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "fast, plain distributed objects",
   "main": "index.js",
+  "repository": "https://github.com/pemrouz/fero",
   "keywords": [
     "fast",
     "plain",
